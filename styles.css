@@ -654,3 +654,9 @@ footer {
     padding: 1.5rem;
   }
 }
+@media (width < 765px){
+  .nav__logo span{
+    color: white;
+  }
+}
+
