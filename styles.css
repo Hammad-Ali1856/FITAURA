@@ -659,4 +659,10 @@ footer {
     color: white;
   }
 }
+@media (width < 765px){
+  .nav__logo span{
+    color: white;
+  }
+}
+
 
